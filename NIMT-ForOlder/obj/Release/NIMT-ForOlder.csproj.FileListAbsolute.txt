@@ -1,0 +1,15 @@
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\bin\Release\NIMT-ForOlder.exe.config
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\bin\Release\NIMT-ForOlder.exe
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\bin\Release\NIMT-ForOlder.pdb
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\bin\Release\zh-CN\NIMT-ForOlder.resources.dll
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT-ForOlder.csprojAssemblyReference.cache
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT_ForOlder.Loading.resources
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT_ForOlder.Login.resources
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT_ForOlder.Main_Form1.resources
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT_ForOlder.Properties.Resources.resources
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT_ForOlder.Main_Form1.zh-CN.resources
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT-ForOlder.csproj.GenerateResource.cache
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT-ForOlder.csproj.CoreCompileInputs.cache
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\zh-CN\NIMT-ForOlder.resources.dll
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT-ForOlder.exe
+C:\Users\33384\source\repos\NIMT-ForOlder\NIMT-ForOlder\obj\Release\NIMT-ForOlder.pdb
